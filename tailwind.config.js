@@ -44,6 +44,7 @@ export default {
           950: '#251810',
         },
         cream: '#f4ede3',
+        ivory: '#fbf6ea',
       },
       fontFamily: {
         serif: ['Cormorant Garamond', 'Georgia', 'serif'],

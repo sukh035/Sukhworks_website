@@ -43,7 +43,7 @@ export default function Gallery({ registerRef }: Props) {
     <section
       id="gallery"
       ref={registerRef}
-      className="py-24 bg-sage-50"
+      className="py-24 bg-ivory"
     >
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-12">

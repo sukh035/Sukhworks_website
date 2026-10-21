@@ -7,7 +7,7 @@ export default function About({ registerRef }: Props) {
     <section
       id="about"
       ref={registerRef}
-      className="py-24 bg-sage-50"
+      className="py-24 bg-ivory"
     >
       <div className="max-w-5xl mx-auto px-6">
         <div className="grid md:grid-cols-2 gap-12 items-center">

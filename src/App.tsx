@@ -28,7 +28,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-sage-50">
+    <div className="min-h-screen bg-ivory">
       <Navbar onNavigate={scrollToSection} />
       <Hero onExplore={() => scrollToSection('gallery')} />
       <Gallery registerRef={registerRef} />
