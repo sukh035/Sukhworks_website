@@ -12,7 +12,7 @@ export default function Hero({ onExplore }: Props) {
         loop
         muted
         playsInline
-        className="absolute inset-0 w-full h-full object-cover"
+        className="absolute inset-0 w-full h-full object-cover" "md:object-contain"
       >
         <source src="/Website_Banner_Video(1).mp4" type="video/mp4" />
       </video>
